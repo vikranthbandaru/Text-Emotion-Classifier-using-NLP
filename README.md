@@ -4,7 +4,7 @@ In this project, I have created an application that classifies any text and disp
 
 
 
-For this I have implemented the application using Machine Learning Model - Logistic Regression, although the prediction given by the model was just 0.62 (approx), the end result was not too shabby.
+For this I have implemented the application using Machine Learning Model - Logistic Regression, although the prediction given by the model was just 0.62 (approx).
 
 Initially, I had created the model using a dataset for emotions which was accessible through kaggle. The datset was cleaned and formatted, filler words removed, and preprocessed as a whole. Further I had used a pipeline : The purpose of the pipeline is to assemble several steps that can be cross-validated together while setting different parameters. Now I save the .ipynb file as a pickle file.
 
