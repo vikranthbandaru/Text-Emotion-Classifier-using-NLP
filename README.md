@@ -2,6 +2,7 @@
 
 In this project, I have created an application that classifies any text and displays the emotion behind the text.
 
+![image](https://user-images.githubusercontent.com/61614905/144106828-52244038-7141-4a35-ae12-45a608cb0284.png)
 
 
 For this I have implemented the application using Machine Learning Model - Logistic Regression, although the prediction given by the model was just 0.62 (approx).
